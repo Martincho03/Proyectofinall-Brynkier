@@ -1,0 +1,8 @@
+.MT09 img {
+    width: 500px;
+}
+
+.MT09 {
+    display: flex;
+    justify-content: center;
+}
